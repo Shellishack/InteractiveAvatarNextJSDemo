@@ -17,7 +17,7 @@ import {
   Chip,
   Tabs,
   Tab,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import { useEffect, useRef, useState } from "react";
 import { useMemoizedFn, usePrevious } from "ahooks";
 

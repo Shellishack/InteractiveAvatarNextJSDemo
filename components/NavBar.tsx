@@ -6,7 +6,7 @@ import {
   NavbarBrand,
   NavbarContent,
   NavbarItem,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import { GithubIcon, HeyGenLogo } from "./Icons";
 import { ThemeSwitch } from "./ThemeSwitch";
 
